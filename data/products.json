@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pain-levain",
+    "name": "Pain au Levain Nature",
+    "description": "Fermentation longue (24h), farine locale, croûte croustillante et mie alvéolée.",
+    "price": "2.50€",
+    "category": "Boulangerie",
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?auto=format&fit=crop&q=80&w=800",
+    "popular": true
+  },
+  {
+    "id": "baguette-tradition",
+    "name": "Baguette Tradition",
+    "description": "La classique française, Label Rouge, sans additifs.",
+    "price": "1.20€",
+    "category": "Boulangerie",
+    "image": "https://images.unsplash.com/photo-1597079910443-60c43fc4f729?auto=format&fit=crop&q=80&w=800",
+    "popular": true
+  },
+  {
+    "id": "croissant-beurre",
+    "name": "Croissant Pur Beurre",
+    "description": "Feuilletage maison au beurre AOP Charentes-Poitou.",
+    "price": "1.30€",
+    "category": "Viennoiserie",
+    "image": "/images/produits/Croissant pur beurre.jpg",
+    "popular": true
+  },
+  {
+    "id": "pain-chocolat",
+    "name": "Pain au Chocolat",
+    "description": "Deux barres de chocolat noir valrhona dans un feuilletage croustillant.",
+    "price": "1.40€",
+    "category": "Viennoiserie",
+    "image": "/images/produits/Pain au chocolat.jpg",
+    "popular": true
+  },
+  {
+    "id": "fraisier",
+    "name": "Le Fraisier",
+    "description": "Mousseline légère à la vanille de Madagascar, fraises de pays (en saison).",
+    "price": "4.50€ / part",
+    "category": "Pâtisserie",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&q=80&w=800",
+    "popular": false
+  },
+  {
+    "id": "eclair-cafe",
+    "name": "Éclair Café",
+    "description": "Pâte à choux maison, crème pâtissière au café fraîchement torréfié.",
+    "price": "3.20€",
+    "category": "Pâtisserie",
+    "image": "/images/produits/Eclair au café.png",
+    "popular": false
+  },
+  {
+    "id": "quiche-lorraine",
+    "name": "Quiche Lorraine",
+    "description": "Lardons fumés, crème fraîche, œufs bio, emmental.",
+    "price": "3.80€",
+    "category": "Traiteur",
+    "image": "/images/produits/Quiche Lorraine.jpg",
+    "popular": false
+  },
+  {
+    "id": "sandwich-parisien",
+    "name": "Le Parisien",
+    "description": "Jambon blanc supérieur, beurre demi-sel, cornichons dans une baguette tradition.",
+    "price": "4.50€",
+    "category": "Traiteur",
+    "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&q=80&w=800",
+    "popular": false
+  }
+]

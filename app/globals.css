@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 50 33% 98%; /* cream-50 */
+    --foreground: 20 50% 16%; /* brown-900 */
+  }
+  
+  body {
+    @apply bg-cream-50 text-brown-900 font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif text-brown-800;
+  }
+}
